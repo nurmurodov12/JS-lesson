@@ -115,13 +115,32 @@
     
 // }
 
-const num = 10;
+// const num = 10;
 
-if (num > 15) {
-    console.log("15dan katta ");
+// if (num > 15) {
+//     console.log("15dan katta ");
      
-} else if (num > 5) {
-    console.log("5dan katta ,lekin 15dan kichik.");
+// } else if (num > 5) {
+//     console.log("5dan katta ,lekin 15dan kichik.");
+    
+// }
+// const age = 24;
+
+// if (age > 20) {
+//     console.log("siz 20 yishdan a]kattsazi");
+    
+// }
+
+const mehmonlar = ["azizabek", "behruz", "temur", "behrix"];
+
+if (mehmonlar.length > 3) {
+    console.log('yetarlicha mehmmonlar mavjud');
     
 }
 
+const parol = 'password123' 
+
+if (parol.length >= 8) {
+    console.log("siznign parolingiz yetarlicha kuchli ");
+    
+}
