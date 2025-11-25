@@ -75,6 +75,23 @@ const name = ["ahror", "sardor", "doniyor", "Asilbek", "Temur"];
 // }
 
 
-const ism = "temur";
-console.log(ism.indexOf("m"));
+// const ism = "temur";
+// console.log(ism.indexOf("m"));
 
+// for (let i = 0; i < 10; i++) {
+//     if (i === 4) {
+//         console.log("toxtatildi");
+//         continue
+        
+//     }
+//     console.log(i);
+    
+// }
+
+for (let i = 0; i < 10; i++) {
+    if (i % 2 !== 0) {
+        continue
+    }
+    console.log(i);
+    
+}

@@ -151,7 +151,23 @@
 
 // }
 
-for (let i = 4; i < 14; i++) {
-    console.log("Temur");
-    
-}
+const mehmmonlar = ['ahror', 'temur', 'ahror', 'behruz'];
+
+// name[0] = 'asror';
+
+// console.log(name);
+
+const numbers = [1, 2, 3, 4, 5, 6, 123];
+
+// const uzunlik = numbers.length
+// console.log(uzunlik);
+
+// let result = mehmmonlar.indexOf('ahror')
+// console.log(result);
+
+// const result = numbers.concat(mehmmonlar)
+// console.log(result);
+
+// const natija = result.indexOf('temur')
+// console.log(natija);
+
