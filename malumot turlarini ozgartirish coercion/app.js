@@ -43,4 +43,11 @@
 // console.log(Boolean([]));
 // console.log(Boolean({}));
 
+const natija = 100;
 
+natija = String(natija)
+
+console.log(natija);
+
+
+// console.log(typeof natija);

@@ -1,6 +1,6 @@
 // for ( let i = 0 ; i < 10; i++) {
 //     console.log(i);
-    
+
 // }
 
 // for (let i = 0; i < 5; i++) {
@@ -17,10 +17,10 @@
 //     if (i === 5) {
 //         console.log("loop toxtatildi, chunki i = 5");
 //         break
-        
+
 //     }
 //     console.log(i);
-    
+
 // }
 
 // for (let i = 0; i < 10; i++){
@@ -28,14 +28,14 @@
 //         continue
 //     }
 //     console.log(i);
-    
+
 // }
 
 // for (let i = 0; i <= 10; i++) {
 //     if (i === 5) {
 //         console.log("toxtaildi loop");
 //         break
-        
+
 //     }
 //     console.log(i)
 // }
@@ -44,9 +44,37 @@
 //     if (i === 5) {
 //         console.log("toxtatildi");
 //         continue
-        
+
 //     }
+//     console.log(i);
+
+// }
+
+
+
+// for (let i = 0; i < 11; i++) {
+//     console.log(i);
+
+// }
+
+// const temur = "temur";
+// const result = temur.trim()
+// console.log(temur.trim());
+
+// for (let i = 0; i < 10; i++) {
 //     console.log(i);
     
 // }
+
+
+const name = ["ahror", "sardor", "doniyor", "Asilbek", "Temur"]; 
+
+// for (let i = 0; i < name.length; i++ ) {
+//     console.log(name[i]);
+    
+// }
+
+
+const ism = "temur";
+console.log(ism.indexOf("m"));
 

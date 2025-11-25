@@ -98,7 +98,17 @@
   
 // console.log(i);
 
-let i = 0;
-while(i < 11) {
-    i++;
-}
+// let i = 0;
+// while(i < 11) {
+//     i++;
+// }
+
+// const names = ["sardor", "dordor", "temur", "ali"];
+// for (let i = 0; i < names.length; i++) {
+//     console.log(names[i])
+// }
+let i = 5;
+do {
+    console.log(i)
+    i++
+}while (i < 5)
