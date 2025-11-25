@@ -138,15 +138,20 @@
 
 // }
 
-const parol = 'passw'
+// const parol = 'passw'
 
-if (parol.length >= 12 && parol.includes('g')) {
-    console.log("parol juda uzun");
+// if (parol.length >= 12 && parol.includes('g')) {
+//     console.log("parol juda uzun");
 
-} else if (parol.length >= 8 || parol.includes('w') && parol.length >= 45) {
-    console.log("sizning parolingiz yetarlicha kuchli ");
+// } else if (parol.length >= 8 || parol.includes('w') && parol.length >= 45) {
+//     console.log("sizning parolingiz yetarlicha kuchli ");
 
-} else {
-    console.log("bu parolingiz yetrlicha kuchli emas !");
+// } else {
+//     console.log("bu parolingiz yetrlicha kuchli emas !");
 
+// }
+
+for (let i = 4; i < 14; i++) {
+    console.log("Temur");
+    
 }
