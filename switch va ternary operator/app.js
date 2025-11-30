@@ -61,7 +61,6 @@
 // const message = isLoggedIn ? "welcome back" : "please log in"  ;
 // console.log(message);
 
-
 // const age = 18;
 // const result = age >= 18 ? "yes i true" : "yo try not"
 // console.log(result);
@@ -82,12 +81,7 @@
 
 //     }
 
-
-
-
 // }
-
-
 
 // const baho = "D";
 // switch (baho) {
@@ -108,7 +102,6 @@
 
 // }
 
-
 // let age = 24;
 
 // if (true) {
@@ -119,28 +112,27 @@
 //     if(true) {
 //         // let age = 26;
 //         console.log("bu esa ifni ichida yana if",age, ism);
-        
+
 //     }
-    
+
 // }
 
 // console.log("tashqarida elon qilingan age ", age);
 
-let yosh = 20
-switch (true) {
-    case yosh > 18:
-        console.log("bu bolani yoshi 18dan katta ");
-        break
-    case yosh === 18:
-        console.log("bu bola yoshi 18da");
-        break
-    case yosh === 20:
-        console.log("bu bolani yoshi 20da");
-        break
-    default:
-        console.log("bu bolani yoshi nexuya topilmadi");
-        
-        
-        
-        
-}
+// let yosh = 20
+// switch (yosh < 18) {
+//     case yosh > 18:
+//         console.log("bu bolani yoshi 18dan katta ");
+//         break
+//     case yosh === 18:
+//         console.log("bu bola yoshi 18da");
+//         break
+//     case yosh === 20:
+//         console.log("bu bolani yoshi 20da");
+//         break
+//     default:
+//         console.log("bu bolani yoshi nexuya topilmadi");
+
+// }
+// 
+

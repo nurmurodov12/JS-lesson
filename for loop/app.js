@@ -88,10 +88,28 @@ const name = ["ahror", "sardor", "doniyor", "Asilbek", "Temur"];
     
 // }
 
-for (let i = 0; i < 10; i++) {
-    if (i % 2 !== 0) {
+// for (let i = 0; i < 10; i++) {
+//     if (i % 2 !== 0) {
+//         continue
+//     }
+//     console.log(i);
+    
+// }
+const natijalar = [30, 43, 0, 65, 100, 20, 11];
+
+
+
+for (let i = 0; i < natijalar.length; i++) {
+
+    if (natijalar[i] === 0) {
         continue
     }
-    console.log(i);
+
+    console.log('sizning natijangiz:', natijalar[i]);
     
+    if (natijalar[i] === 100) {
+        console.log('siz eng yuqori natijani topladingiz ');
+        break
+    }
 }
+
