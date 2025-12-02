@@ -100,7 +100,7 @@
 //         }
 //         let result = false && !true && true;
 //         console.log(result);
-        
+
 
 //     }
 // }
@@ -116,7 +116,7 @@
 
 // function add () {
 //     console.log("salom dunyo");
-    
+
 // }
 
 // add();
@@ -138,5 +138,28 @@
 // do {
 //     console.log("salom dunyo");
 //     i++;
+
+// }while ( i < 
+// sayHello()
+
+// function sayHello() {
+//     console.log("salom dunyo")
+
+// }
+
+
+const sayByeBye = function () {
+    console.log("Say Bye Bye function declaration");
     
-// }while ( i < 10)
+}
+sayByeBye()
+sayByeBye()
+sayByeBye()
+
+const nice = () =>  {
+    console.log("this is arrow function");
+    
+}
+nice()
+nice()
+nice()
